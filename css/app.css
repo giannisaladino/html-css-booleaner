@@ -5,7 +5,7 @@ body{
 .top-banner{
     background-color: rgb(0, 166, 255);
     background-image: url("/img/pattern.png");
-    height: 100px;
+    height: 90px;
     background-size: 300px;
 
 }
@@ -77,4 +77,25 @@ td{
 
 #tr-tbody{
     background-color: skyblue;
+}
+
+footer{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.testo1{
+    width: 300px;
+    height: 120px;
+    background-image: url("/img/monitor.jpg");
+    background-repeat: no-repeat;
+    background-size: 60%;
+}
+
+.testo2{
+    width: 300px;
+    height: 150px;
+    background-image: url("/img/graph.jpg");
+    background-repeat: no-repeat;
+    background-size: 60%;
 }
