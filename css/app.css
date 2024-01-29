@@ -54,3 +54,27 @@ h1{
     background-color: yellow;
 }
 
+#list{
+    margin-top: 25px;
+}
+.list-item{
+    padding-left: 15px;
+}
+
+th{
+    padding: 20px;
+    color: white;
+}
+
+td{
+    padding: 15px;
+}
+
+#tr-thead{
+    background-color: rgb(0, 136, 255);
+    
+}
+
+#tr-tbody{
+    background-color: skyblue;
+}
