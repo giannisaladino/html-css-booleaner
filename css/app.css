@@ -1,0 +1,18 @@
+body{
+    margin: 0%;
+}
+
+.top-banner{
+    background-color: rgb(0, 166, 255);
+    height: 100px;
+}   
+
+#img-banner{
+    display: inline;
+    margin: auto;
+    height: 100px;
+}
+
+.page-title{
+  
+}
