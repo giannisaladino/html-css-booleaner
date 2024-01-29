@@ -4,15 +4,47 @@ body{
 
 .top-banner{
     background-color: rgb(0, 166, 255);
+    background-image: url("/img/pattern.png");
     height: 100px;
-}   
+    background-size: 300px;
 
-#img-banner{
-    display: inline;
-    margin: auto;
+}
+
+.div-logo{
+    width: 1000px;
     height: 100px;
+    margin: 0 auto;
+    padding-top: 45px;
+}
+
+.logo {
+    width: 20%;
+}
+
+.page-content{
+    width: 1000px ;
+    margin: 0 auto;
 }
 
 .page-title{
-  
+    margin-bottom: 0%;
+    font-size: 25px;
 }
+
+h1{
+    margin-bottom: 0%;
+    margin-top: 20px;
+}
+
+#blue-text{
+    color: skyblue;
+}
+
+.title-data{
+    margin-bottom: 0%;
+}
+
+p{
+    margin: auto;
+}
+
