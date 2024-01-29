@@ -41,10 +41,16 @@ h1{
 }
 
 .title-data{
-    margin-bottom: 0%;
+    margin-bottom: 20px;
+    color: grey;
 }
 
-p{
+.sottotitoli{
     margin: auto;
+
+}
+
+#highlight{
+    background-color: yellow;
 }
 
