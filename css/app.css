@@ -62,24 +62,29 @@ h1{
 }
 
 th{
-    padding: 20px;
     color: white;
+    height: 20px;
 }
 
 td{
     padding: 15px;
+    font-size: 15px;
+}
+
+.th-thead{
+    width: 50%;
 }
 
 .tr-thead{
     background-color: rgb(0, 136, 255);
-    
+    font-size: 17px;
 }
 
 .tr-tbody{
     background-color: skyblue;
 }
 
-.testo1{
+.monitor-foto{
     width: 300px;
     height: 120px;
     background-image: url(../img/monitor.jpg);
@@ -87,7 +92,7 @@ td{
     background-size: 60%;
 }
 
-.testo2{
+.graph-foto{
     width: 300px;
     height: 150px;
     background-image: url(../img/graph.jpg);
